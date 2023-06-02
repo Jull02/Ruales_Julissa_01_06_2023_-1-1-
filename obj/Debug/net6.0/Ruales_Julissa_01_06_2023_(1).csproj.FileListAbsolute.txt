@@ -1,0 +1,15 @@
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\bin\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).exe
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\bin\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).deps.json
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\bin\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).runtimeconfig.json
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\bin\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).dll
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\bin\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).pdb
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\obj\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).csproj.AssemblyReference.cache
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\obj\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).GeneratedMSBuildEditorConfig.editorconfig
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\obj\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).AssemblyInfoInputs.cache
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\obj\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).AssemblyInfo.cs
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\obj\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).csproj.CoreCompileInputs.cache
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\obj\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).dll
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\obj\Debug\net6.0\refint\Ruales_Julissa_01_06_2023_(1).dll
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\obj\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).pdb
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\obj\Debug\net6.0\Ruales_Julissa_01_06_2023_(1).genruntimeconfig.cache
+D:\UDLA\Quinto Semestre\Modelado\Ruales_Julissa_01_06_2023_(1)\obj\Debug\net6.0\ref\Ruales_Julissa_01_06_2023_(1).dll
